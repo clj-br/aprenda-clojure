@@ -53,12 +53,10 @@
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
 | [Clojure é um Java melhor que Java](https://youtu.be/ruZwYDSaq1M) | [Ana Bastos](https://github.com/anabastos) | 🇧🇷 | 
-| [Por que usar Clojure? (QA sobre a linguagem)](https://www.youtube.com/watch?v=Jrtkuyf6Q2Q) | [Eduardo Bellani](https://github.com/ebellani) | 🇧🇷 | 
 | [Introdução ao LISP](https://www.youtube.com/watch?v=IIp9YaXRHVY) | [Laura Viglioni](https://github.com/Viglioni) | 🇧🇷 | 
 | [A Essência do LISP](https://youtu.be/j3FEFuoVN5c) | [Sophia Velten](https://github.com/sovelten) | 🇧🇷 | 
 | [A arte da simplicidade com Clojure](https://www.youtube.com/watch?v=_kGwRVuH6mU) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
 | [Introdução ao ClojureScript](https://youtu.be/WcqtMSLFUHI) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 | 
-| [Repl Driven Development: Desenhando com Clojure](https://www.youtube.com/live/rvFDmqSTh2I) | [Gustavo Kishima](https://github.com/gukiboy) | 🇧🇷 | 
 | [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 🇧🇷 |
 | [Paralelismo em Clojure](https://www.youtube.com/watch?v=b7cbPjsYUYY) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 | 
 | [clojure-lsp: uma ferramenta de linter para tudo](https://www.youtube.com/watch?v=d-sjGfQRyHY) | [Eric Dallo](https://github.com/ericdallo) | 🇧🇷 | 
