@@ -48,6 +48,7 @@
 | [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | [Ben Vandgrift](https://twitter.com/bvandgrift) | Não | 🇺🇸 | 
 | [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://twitter.com/fogus) | Não | 🇺🇸 | 
 | [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | [Gregório Melo](https://www.linkedin.com/in/gregoriomelo) | Não | 🇧🇷 | 
+| [Clojure Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/) | [Alex Miller]() e [Lorilyn Jordan Miller]() | Não | 🇺🇸 |
 
 ### Palestras
 | Nome  | Palestrante | Idioma | 
