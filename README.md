@@ -89,7 +89,8 @@
 | [leiningen](https://leiningen.org/) | Gerenciador de Dependências e ferramenta de build   |
 | [babashka](https://github.com/babashka/babashka) | Ambiente de scripting em Clojure   |
 | [cljstyle](https://github.com/greglook/cljstyle) | Ferramenta de formatação de Código |
-| [clj-kondo](https://github.com/clj-kondo/clj-kondo) | Ferramenta de análise estática (erros/incosistências). |
+| [clj-kondo](https://github.com/clj-kondo/clj-kondo) | Ferramenta de análise estática (erros/incosistências) |
+| [rebel-readline](https://github.com/bhauman/rebel-readline) | Melhor iteratividade no REPL |
 
 ### Listas de Links
 - [Comunidade Clojure Brasil](https://github.com/clj-br)
