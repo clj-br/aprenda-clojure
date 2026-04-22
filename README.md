@@ -71,6 +71,8 @@
 | [Desenvolvimento de Jogos com ClojureCLR](https://www.youtube.com/live/4ZU9ewFuvbc?si=LGBm0qMSboX_H8SV) | [Lucas Teles](https://github.com/lucasteles) | 🇧🇷 | 
 | [Analisando Jogos em Clojure - Lisp Game Jam 2024](https://www.youtube.com/live/U0EwCgdAWhE?si=VJNKeNBjMDl6PMHY) | [Lucas Teles](https://github.com/lucasteles) & [Rafael Delboni](https://github.com/rafaeldelboni)  | 🇧🇷 | 
 | [Além das Terras de Java - Uma Introdução ao Lisp da JVM para Programação Funcional](https://youtu.be/UyN1Sw1nBbo?si=XoUslz-wpFjPR7NW) | [Eduardo Lemos](https://github.com/EduardoLR10) | 🇧🇷 | 
+| [Clojure - Uma breve história (Princípios e Curiosidades)](https://www.youtube.com/live/_BsTQE-DVgo) | [Heloisa Carbone](#) | 🇧🇷 | 
+<!-- | []() | - | 🇧🇷 | -->
 
 
 
