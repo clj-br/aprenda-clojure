@@ -66,7 +66,7 @@
 | [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 🇧🇷 | 
 | [Conhecendo o Datomic](https://www.youtube.com/watch?v=uGxTcHcjq78) | [Samuel Flores](https://github.com/samflores) | 🇧🇷 | 
 | [O que é Programação (Funcional)](https://www.youtube.com/watch?v=qBQau1OsgW8) | [Sophia Velten](https://www.linkedin.com/in/sovelten/) | 🇧🇷 | 
-| [Conhecendo Datomic](https://www.youtube.com/watch?v=RVA11IAXlwc) | [João Palharini](#) | 🇧🇷 | 
+| [Conhecendo Datomic](https://www.youtube.com/watch?v=RVA11IAXlwc) | [João Palharini](https://github.com/jpalharini) | 🇧🇷 | 
 | [Clojure Docs](https://www.youtube.com/live/f9LM2f7bt_4?si=sNNYBU2KSM84BqSp) | [Rafael Delboni](https://github.com/rafaeldelboni) | 🇧🇷 | 
 | [Desenvolvimento de Jogos com ClojureCLR](https://www.youtube.com/live/4ZU9ewFuvbc?si=LGBm0qMSboX_H8SV) | [Lucas Teles](https://github.com/lucasteles) | 🇧🇷 | 
 | [Analisando Jogos em Clojure - Lisp Game Jam 2024](https://www.youtube.com/live/U0EwCgdAWhE?si=VJNKeNBjMDl6PMHY) | [Lucas Teles](https://github.com/lucasteles) & [Rafael Delboni](https://github.com/rafaeldelboni)  | 🇧🇷 | 
