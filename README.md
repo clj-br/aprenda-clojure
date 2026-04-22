@@ -100,3 +100,4 @@
 - [Clojure: The Documentary](https://youtu.be/Y24vK_QDLFg)
 - [Vagas de Clojure](https://github.com/clj-br/vagas)
 - [15 anos de Clojure com o time da Cognitect](https://blog.nubank.com.br/clojure15anos/)
+- [Rich Hickey Fanclub](https://github.com/tallesl/Rich-Hickey-fanclub)
