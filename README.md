@@ -51,27 +51,53 @@
 | [Clojure Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/) | [Alex Miller]() e [Lorilyn Jordan Miller]() | Não | 🇺🇸 |
 
 ### Palestras
+
+#### Introdução e Fundamentos
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
-| [Clojure é um Java melhor que Java](https://youtu.be/ruZwYDSaq1M) | [Ana Bastos](https://github.com/anabastos) | 🇧🇷 | 
-| [Introdução ao LISP](https://www.youtube.com/watch?v=IIp9YaXRHVY) | [Laura Viglioni](https://github.com/Viglioni) | 🇧🇷 | 
-| [A Essência do LISP](https://youtu.be/j3FEFuoVN5c) | [Sophia Velten](https://github.com/sovelten) | 🇧🇷 | 
+| [O que é Programação (Funcional)](https://www.youtube.com/watch?v=qBQau1OsgW8) | [Sophia Velten](https://www.linkedin.com/in/sovelten/) | 🇧🇷 |
+| [Introdução ao LISP](https://www.youtube.com/watch?v=IIp9YaXRHVY) | [Laura Viglioni](https://github.com/Viglioni) | 🇧🇷 |
+| [Clojure é um Java melhor que Java](https://youtu.be/ruZwYDSaq1M) | [Ana Bastos](https://github.com/anabastos) | 🇧🇷 |
+| [Além das Terras de Java - Uma Introdução ao Lisp da JVM para Programação Funcional](https://youtu.be/UyN1Sw1nBbo?si=XoUslz-wpFjPR7NW) | [Eduardo Lemos](https://github.com/EduardoLR10) | 🇧🇷 |
+| [Clojure - Uma breve história (Princípios e Curiosidades)](https://www.youtube.com/live/_BsTQE-DVgo) | [Heloisa Carbone](#) | 🇧🇷 |
+| [A Essência do LISP](https://youtu.be/j3FEFuoVN5c) | [Sophia Velten](https://github.com/sovelten) | 🇧🇷 |
+| [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 🇧🇷 |
 | [A arte da simplicidade com Clojure](https://www.youtube.com/watch?v=_kGwRVuH6mU) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
-| [Introdução ao ClojureScript](https://youtu.be/WcqtMSLFUHI) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 | 
+
+#### Ferramentas e REPL
+| Nome  | Palestrante | Idioma | 
+|:--    |:--:    | :--:  | 
+| [Clojure Docs](https://www.youtube.com/live/f9LM2f7bt_4?si=sNNYBU2KSM84BqSp) | [Rafael Delboni](https://github.com/rafaeldelboni) | 🇧🇷 |
+| [clojure-lsp: uma ferramenta de linter para tudo](https://www.youtube.com/watch?v=d-sjGfQRyHY) | [Eric Dallo](https://github.com/ericdallo) | 🇧🇷 |
+| [Desenvolvimento interativo com o REPL](https://www.youtube.com/live/ntRCK_2eP3U) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 |
+| [Clojure (Script, principalmente) com o editor Pulsar](https://www.youtube.com/watch?v=uZ__RWceTSA) | [Maurício Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
+
+#### ClojureScript
+| Nome  | Palestrante | Idioma | 
+|:--    |:--:    | :--:  | 
+| [Introdução ao ClojureScript](https://youtu.be/WcqtMSLFUHI) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 |
+
+#### Aplicações e Casos
+| Nome  | Palestrante | Idioma | 
+|:--    |:--:    | :--:  | 
 | [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 🇧🇷 |
-| [Paralelismo em Clojure](https://www.youtube.com/watch?v=b7cbPjsYUYY) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 | 
-| [clojure-lsp: uma ferramenta de linter para tudo](https://www.youtube.com/watch?v=d-sjGfQRyHY) | [Eric Dallo](https://github.com/ericdallo) | 🇧🇷 | 
-| [Desenvolvimento interativo com o REPL](https://www.youtube.com/live/ntRCK_2eP3U) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 | 
-| [Clojure (Script, principalmente) com o editor Pulsar](https://www.youtube.com/watch?v=uZ__RWceTSA) | [Maurício Szabo](https://github.com/mauricioszabo) | 🇧🇷 | 
-| [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 🇧🇷 | 
-| [Conhecendo o Datomic](https://www.youtube.com/watch?v=uGxTcHcjq78) | [Samuel Flores](https://github.com/samflores) | 🇧🇷 | 
-| [O que é Programação (Funcional)](https://www.youtube.com/watch?v=qBQau1OsgW8) | [Sophia Velten](https://www.linkedin.com/in/sovelten/) | 🇧🇷 | 
-| [Conhecendo Datomic](https://www.youtube.com/watch?v=RVA11IAXlwc) | [João Palharini](https://github.com/jpalharini) | 🇧🇷 | 
-| [Clojure Docs](https://www.youtube.com/live/f9LM2f7bt_4?si=sNNYBU2KSM84BqSp) | [Rafael Delboni](https://github.com/rafaeldelboni) | 🇧🇷 | 
-| [Desenvolvimento de Jogos com ClojureCLR](https://www.youtube.com/live/4ZU9ewFuvbc?si=LGBm0qMSboX_H8SV) | [Lucas Teles](https://github.com/lucasteles) | 🇧🇷 | 
-| [Analisando Jogos em Clojure - Lisp Game Jam 2024](https://www.youtube.com/live/U0EwCgdAWhE?si=VJNKeNBjMDl6PMHY) | [Lucas Teles](https://github.com/lucasteles) & [Rafael Delboni](https://github.com/rafaeldelboni)  | 🇧🇷 | 
-| [Além das Terras de Java - Uma Introdução ao Lisp da JVM para Programação Funcional](https://youtu.be/UyN1Sw1nBbo?si=XoUslz-wpFjPR7NW) | [Eduardo Lemos](https://github.com/EduardoLR10) | 🇧🇷 | 
-| [Clojure - Uma breve história (Princípios e Curiosidades)](https://www.youtube.com/live/_BsTQE-DVgo) | [Heloisa Carbone](#) | 🇧🇷 | 
+
+#### Paralelismo
+| Nome  | Palestrante | Idioma | 
+|:--    |:--:    | :--:  | 
+| [Paralelismo em Clojure](https://www.youtube.com/watch?v=b7cbPjsYUYY) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
+
+#### Datomic
+| Nome  | Palestrante | Idioma | 
+|:--    |:--:    | :--:  | 
+| [Conhecendo o Datomic](https://www.youtube.com/watch?v=uGxTcHcjq78) | [Samuel Flores](https://github.com/samflores) | 🇧🇷 |
+| [Conhecendo Datomic](https://www.youtube.com/watch?v=RVA11IAXlwc) | [João Palharini](https://github.com/jpalharini) | 🇧🇷 |
+
+#### Desenvolvimento de Jogos
+| Nome  | Palestrante | Idioma | 
+|:--    |:--:    | :--:  | 
+| [Desenvolvimento de Jogos com ClojureCLR](https://www.youtube.com/live/4ZU9ewFuvbc?si=LGBm0qMSboX_H8SV) | [Lucas Teles](https://github.com/lucasteles) | 🇧🇷 |
+| [Analisando Jogos em Clojure - Lisp Game Jam 2024](https://www.youtube.com/live/U0EwCgdAWhE?si=VJNKeNBjMDl6PMHY) | [Lucas Teles](https://github.com/lucasteles) & [Rafael Delboni](https://github.com/rafaeldelboni)  | 🇧🇷 |
 <!-- | []() | - | 🇧🇷 | -->
 
 
