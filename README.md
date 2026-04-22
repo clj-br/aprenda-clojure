@@ -50,6 +50,15 @@
 | [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | [Gregório Melo](https://www.linkedin.com/in/gregoriomelo) | Não | 🇧🇷 | 
 | [Clojure Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/) | [Alex Miller]() e [Lorilyn Jordan Miller]() | Não | 🇺🇸 |
 
+### Podcasts
+| Nome  | Podcast |  Nº |  Idioma | 
+|:--    |:--:     | :--:   |  :--:   | 
+| [Tecnologias no Nubank](https://www.hipsters.tech/tecnologias-no-nubank-hipsters-01/) | Hipsters | 1 | 🇧🇷 |
+| [Tecnologias no Nubank: 3 anos depois](https://www.hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/) | Hipsters | 150 | 🇧🇷 |
+| [Programação Funcional (e (clojure))](https://www.hipsters.tech/programacao-funcional-e-clojure-hipsters-158/) | Hipsters | 158 | 🇧🇷 | 
+| [Vale a pena Clojure?](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html) | DEV na Estrada | 142 | 🇧🇷 | 
+| [Clojure com Camilo Cunha de Azevedo e Márcio Lopes de Faria](https://anchor.fm/elixiremfoco/episodes/23--Clojure-com-Camilo-Cunha-de-Azevedo-e-Mrcio-Lopes-de-Faria-e1u1kjh) | Elixir em Foco | 23 | 🇧🇷 | 
+
 ### Palestras
 
 #### Introdução e Fundamentos
@@ -100,17 +109,6 @@
 | [Analisando Jogos em Clojure - Lisp Game Jam 2024](https://www.youtube.com/live/U0EwCgdAWhE?si=VJNKeNBjMDl6PMHY) | [Lucas Teles](https://github.com/lucasteles) & [Rafael Delboni](https://github.com/rafaeldelboni)  | 🇧🇷 |
 <!-- | []() | - | 🇧🇷 | -->
 
-
-
-### Podcasts
-| Nome  | Podcast |  Nº |  Idioma | 
-|:--    |:--:     | :--:   |  :--:   | 
-| [Tecnologias no Nubank](https://www.hipsters.tech/tecnologias-no-nubank-hipsters-01/) | Hipsters | 1 | 🇧🇷 |
-| [Tecnologias no Nubank: 3 anos depois](https://www.hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/) | Hipsters | 150 | 🇧🇷 |
-| [Programação Funcional (e (clojure))](https://www.hipsters.tech/programacao-funcional-e-clojure-hipsters-158/) | Hipsters | 158 | 🇧🇷 | 
-| [Vale a pena Clojure?](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html) | DEV na Estrada | 142 | 🇧🇷 | 
-| [Clojure com Camilo Cunha de Azevedo e Márcio Lopes de Faria](https://anchor.fm/elixiremfoco/episodes/23--Clojure-com-Camilo-Cunha-de-Azevedo-e-Mrcio-Lopes-de-Faria-e1u1kjh) | Elixir em Foco | 23 | 🇧🇷 | 
-
 ## Ferramentas Úteis
 | Nome  | O que faz? | 
 |:--    |:--     | 
@@ -120,7 +118,7 @@
 | [clj-kondo](https://github.com/clj-kondo/clj-kondo) | Ferramenta de análise estática (erros/incosistências) |
 | [rebel-readline](https://github.com/bhauman/rebel-readline) | Melhor interatividade no REPL |
 
-### Listas de Links
+## Listas de Links
 - [Comunidade Clojure Brasil](https://github.com/clj-br)
 - [Building Nubank](https://www.youtube.com/c/NubankOntheStage)
 - [Clojure: The Documentary](https://youtu.be/Y24vK_QDLFg)
