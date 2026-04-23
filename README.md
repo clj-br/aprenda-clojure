@@ -59,7 +59,9 @@
 | [Vale a pena Clojure?](https://devnaestrada.com.br/2018/02/02/vale-a-pena-clojure.html) | DEV na Estrada | 142 | 🇧🇷 | 
 | [Clojure com Camilo Cunha de Azevedo e Márcio Lopes de Faria](https://anchor.fm/elixiremfoco/episodes/23--Clojure-com-Camilo-Cunha-de-Azevedo-e-Mrcio-Lopes-de-Faria-e1u1kjh) | Elixir em Foco | 23 | 🇧🇷 | 
 
-### Palestras
+<hr>
+
+## Palestras
 
 #### Introdução e Fundamentos
 | Nome  | Palestrante | Idioma | 
@@ -85,6 +87,7 @@
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
 | [Introdução ao ClojureScript](https://youtu.be/WcqtMSLFUHI) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 |
+| [Criando Scripts com NBB - Introdução a Clojure(Script)](https://www.youtube.com/live/EIUuRa7pYig) | [Francisco Berrocal](#) | 🇧🇷 |
 
 #### Aplicações e Casos
 | Nome  | Palestrante | Idioma | 
