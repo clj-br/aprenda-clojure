@@ -88,6 +88,7 @@
 | [Desenvolvimento interativo com o REPL](https://www.youtube.com/live/ntRCK_2eP3U) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 |
 | [Clojure (Script, principalmente) com o editor Pulsar](https://www.youtube.com/watch?v=uZ__RWceTSA) | [Maurício Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
 | [clj-depend: Validando a arquitetura da sua aplicação](https://www.youtube.com/live/lcRqEYC-IXo) | [Fábio Domingues](https://github.com/fabiodomingues) | 🇧🇷 |
+| [Linters com clj-kondo](https://www.youtube.com/live/ILRjDZMnf1w) | [André Camargo](https://github.com/acamargo) | 🇧🇷 |
 
 #### ClojureScript
 | Nome  | Palestrante | Idioma | 
@@ -99,6 +100,7 @@
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
 | [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 🇧🇷 |
+| [Aplicação de Técnicas de IA para Testes Unitários em Clojure](https://www.youtube.com/live/_jIyjMJDlzY) | [Raíssa Barreira](https://www.youtube.com/live/_jIyjMJDlzY) | 🇧🇷 |
 
 #### Paralelismo
 | Nome  | Palestrante | Idioma | 
