@@ -75,6 +75,11 @@
 | [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 🇧🇷 |
 | [A arte da simplicidade com Clojure](https://www.youtube.com/watch?v=_kGwRVuH6mU) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
 
+#### Macros
+| Nome  | Palestrante | Idioma | 
+|:--    |:--:    | :--:  | 
+| [Desmistificando Macros](https://www.youtube.com/live/tK_IR-UWgE8) | [Josué Teodoro](https://github.com/J0sueTM) | 🇧🇷 |
+
 #### Ferramentas e REPL
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
