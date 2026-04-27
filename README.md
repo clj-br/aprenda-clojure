@@ -101,6 +101,7 @@
 |:--    |:--:    | :--:  | 
 | [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 🇧🇷 |
 | [Aplicação de Técnicas de IA para Testes Unitários em Clojure](https://www.youtube.com/live/_jIyjMJDlzY) | [Raíssa Barreira](https://github.com/rtbarreira/) | 🇧🇷 |
+| [Introduzindo programação funcional na Carteira Digital de Trânsito](https://youtu.be/5fk0KXoQBeE) | [Marcio Frayze](https://github.com/marciofrayze) | 🇧🇷 |
 
 #### Paralelismo
 | Nome  | Palestrante | Idioma | 
