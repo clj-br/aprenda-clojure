@@ -82,14 +82,14 @@
 | [Desmistificando Macros](https://www.youtube.com/live/tK_IR-UWgE8) | [Josué Teodoro](https://github.com/J0sueTM) | 17/10/2024 | 🇧🇷 |
 
 #### Ferramentas e REPL
-| Nome  | Palestrante | Idioma | 
-|:--    |:--:    | :--:  | 
-| [Clojure Docs](https://www.youtube.com/live/f9LM2f7bt_4?si=sNNYBU2KSM84BqSp) | [Rafael Delboni](https://github.com/rafaeldelboni) | 🇧🇷 |
-| [clojure-lsp: uma ferramenta de linter para tudo](https://www.youtube.com/watch?v=d-sjGfQRyHY) | [Eric Dallo](https://github.com/ericdallo) | 🇧🇷 |
-| [Desenvolvimento interativo com o REPL](https://www.youtube.com/live/ntRCK_2eP3U) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 |
-| [Clojure (Script, principalmente) com o editor Pulsar](https://www.youtube.com/watch?v=uZ__RWceTSA) | [Maurício Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
-| [clj-depend: Validando a arquitetura da sua aplicação](https://www.youtube.com/live/lcRqEYC-IXo) | [Fábio Domingues](https://github.com/fabiodomingues) | 🇧🇷 |
-| [Linters com clj-kondo](https://www.youtube.com/live/ILRjDZMnf1w) | [André Camargo](https://github.com/acamargo) | 🇧🇷 |
+| Nome  | Palestrante |  Data | Idioma | 
+|:--    |:--:    | :--:  |  :--:  | 
+| [clojure-lsp: uma ferramenta de linter para tudo](https://www.youtube.com/watch?v=d-sjGfQRyHY) | [Eric Dallo](https://github.com/ericdallo) | 02/05/2023 | 🇧🇷 |
+| [Desenvolvimento interativo com o REPL](https://www.youtube.com/live/ntRCK_2eP3U) | [Enzzo Cavallo](https://github.com/souenzzo) | 06/06/2023 | 🇧🇷 |
+| [Clojure (Script, principalmente) com o editor Pulsar](https://www.youtube.com/watch?v=uZ__RWceTSA) | [Maurício Szabo](https://github.com/mauricioszabo) | 04/07/2023 | 🇧🇷 |
+| [Clojure Docs](https://www.youtube.com/live/f9LM2f7bt_4?si=sNNYBU2KSM84BqSp) | [Rafael Delboni](https://github.com/rafaeldelboni) | 02/05/2024 | 🇧🇷 |
+| [clj-depend: Validando a arquitetura da sua aplicação](https://www.youtube.com/live/lcRqEYC-IXo) | [Fábio Domingues](https://github.com/fabiodomingues) | 20/02/2025 | 🇧🇷 |
+| [Linters com clj-kondo](https://www.youtube.com/live/ILRjDZMnf1w) | [André Camargo](https://github.com/acamargo) | 24/04/2025 | 🇧🇷 |
 
 #### ClojureScript
 | Nome  | Palestrante | Idioma | 
