@@ -99,11 +99,11 @@
 | [Criando Scripts com NBB - Introdução a Clojure(Script)](https://www.youtube.com/live/EIUuRa7pYig) | [Francisco Berrocal](#) | 05/09/2024 | 🇧🇷 |
 
 #### Aplicações e Casos
-| Nome  | Palestrante | Idioma | 
-|:--    |:--:    | :--:  | 
-| [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 🇧🇷 |
-| [Aplicação de Técnicas de IA para Testes Unitários em Clojure](https://www.youtube.com/live/_jIyjMJDlzY) | [Raíssa Barreira](https://github.com/rtbarreira/) | 🇧🇷 |
-| [Introduzindo programação funcional na Carteira Digital de Trânsito](https://youtu.be/5fk0KXoQBeE) | [Marcio Frayze](https://github.com/marciofrayze) | 🇧🇷 |
+| Nome  | Palestrante | Data | Idioma | 
+|:--    |:--:    | :--:  | :--:  | 
+| [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | 22/07/2020 | 🇧🇷 |
+| [Aplicação de Técnicas de IA para Testes Unitários em Clojure](https://www.youtube.com/live/_jIyjMJDlzY) | [Raíssa Barreira](https://github.com/rtbarreira/) | 26/06/2025 | 🇧🇷 |
+| [Introduzindo programação funcional na Carteira Digital de Trânsito](https://youtu.be/5fk0KXoQBeE) | [Marcio Frayze](https://github.com/marciofrayze) | 17/12/2025 | 🇧🇷 |
 
 #### Paralelismo
 | Nome  | Palestrante | Idioma | 
