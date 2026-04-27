@@ -106,22 +106,22 @@
 | [Introduzindo programação funcional na Carteira Digital de Trânsito](https://youtu.be/5fk0KXoQBeE) | [Marcio Frayze](https://github.com/marciofrayze) | 17/12/2025 | 🇧🇷 |
 
 #### Paralelismo
-| Nome  | Palestrante | Idioma | 
-|:--    |:--:    | :--:  | 
-| [Paralelismo em Clojure](https://www.youtube.com/watch?v=b7cbPjsYUYY) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
+| Nome  | Palestrante | Data | Idioma | 
+|:--    |:--:    | :--:  | :--:  |
+| [Paralelismo em Clojure](https://www.youtube.com/watch?v=b7cbPjsYUYY) | [Mauricio Szabo](https://github.com/mauricioszabo) | 22/03/2021 | 🇧🇷 |
 
 #### Datomic
-| Nome  | Palestrante | Idioma | 
-|:--    |:--:    | :--:  | 
-| [Conhecendo o Datomic](https://www.youtube.com/watch?v=uGxTcHcjq78) | [Samuel Flores](https://github.com/samflores) | 🇧🇷 |
-| [Conhecendo Datomic](https://www.youtube.com/watch?v=RVA11IAXlwc) | [João Palharini](https://github.com/jpalharini) | 🇧🇷 |
+| Nome  | Palestrante | Data | Idioma | 
+|:--    |:--:    | :--:  | :--:  | 
+| [Conhecendo o Datomic](https://www.youtube.com/watch?v=uGxTcHcjq78) | [Samuel Flores](https://github.com/samflores) | 02/12/2021 | 🇧🇷 |
+| [Conhecendo Datomic](https://www.youtube.com/watch?v=RVA11IAXlwc) | [João Palharini](https://github.com/jpalharini) | 03/10/2023 | 🇧🇷 |
 
 #### Desenvolvimento de Jogos
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
 | [Desenvolvimento de Jogos com ClojureCLR](https://www.youtube.com/live/4ZU9ewFuvbc?si=LGBm0qMSboX_H8SV) | [Lucas Teles](https://github.com/lucasteles) | 🇧🇷 |
 | [Analisando Jogos em Clojure - Lisp Game Jam 2024](https://www.youtube.com/live/U0EwCgdAWhE?si=VJNKeNBjMDl6PMHY) | [Lucas Teles](https://github.com/lucasteles) & [Rafael Delboni](https://github.com/rafaeldelboni)  | 🇧🇷 |
-<!-- | []() | - | 🇧🇷 | -->
+<!-- | []() | - | 00/00/2020 | 🇧🇷 | -->
 
 ## Ferramentas Úteis
 | Nome  | O que faz? | 
