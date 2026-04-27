@@ -66,6 +66,7 @@
 #### Introdução e Fundamentos
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
+| [A arte da simplicidade com Clojure](https://www.youtube.com/watch?v=_kGwRVuH6mU) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
 | [O que é Programação (Funcional)](https://www.youtube.com/watch?v=qBQau1OsgW8) | [Sophia Velten](https://www.linkedin.com/in/sovelten/) | 🇧🇷 |
 | [Introdução ao LISP](https://www.youtube.com/watch?v=IIp9YaXRHVY) | [Laura Viglioni](https://github.com/Viglioni) | 🇧🇷 |
 | [Clojure é um Java melhor que Java](https://youtu.be/ruZwYDSaq1M) | [Ana Bastos](https://github.com/anabastos) | 🇧🇷 |
@@ -73,7 +74,6 @@
 | [Clojure - Uma breve história (Princípios e Curiosidades)](https://www.youtube.com/live/_BsTQE-DVgo) | [Heloisa Carbone](#) | 🇧🇷 |
 | [A Essência do LISP](https://youtu.be/j3FEFuoVN5c) | [Sophia Velten](https://github.com/sovelten) | 🇧🇷 |
 | [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 🇧🇷 |
-| [A arte da simplicidade com Clojure](https://www.youtube.com/watch?v=_kGwRVuH6mU) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
 
 #### Macros
 | Nome  | Palestrante | Idioma | 
@@ -93,6 +93,7 @@
 #### ClojureScript
 | Nome  | Palestrante | Idioma | 
 |:--    |:--:    | :--:  | 
+| [Construindo front-ends funcionais com ClojureScript](https://youtu.be/R1611bVKlGU) | [Isa Silveira](https://github.com/bella-silveira) | 🇧🇷 |
 | [Introdução ao ClojureScript](https://youtu.be/WcqtMSLFUHI) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 |
 | [Criando Scripts com NBB - Introdução a Clojure(Script)](https://www.youtube.com/live/EIUuRa7pYig) | [Francisco Berrocal](#) | 🇧🇷 |
 
