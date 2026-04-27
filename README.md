@@ -117,10 +117,10 @@
 | [Conhecendo Datomic](https://www.youtube.com/watch?v=RVA11IAXlwc) | [João Palharini](https://github.com/jpalharini) | 03/10/2023 | 🇧🇷 |
 
 #### Desenvolvimento de Jogos
-| Nome  | Palestrante | Idioma | 
-|:--    |:--:    | :--:  | 
-| [Desenvolvimento de Jogos com ClojureCLR](https://www.youtube.com/live/4ZU9ewFuvbc?si=LGBm0qMSboX_H8SV) | [Lucas Teles](https://github.com/lucasteles) | 🇧🇷 |
-| [Analisando Jogos em Clojure - Lisp Game Jam 2024](https://www.youtube.com/live/U0EwCgdAWhE?si=VJNKeNBjMDl6PMHY) | [Lucas Teles](https://github.com/lucasteles) & [Rafael Delboni](https://github.com/rafaeldelboni)  | 🇧🇷 |
+| Nome  | Palestrante | Data | Idioma | 
+|:--    |:--:    | :--:  | :--:  | 
+| [Desenvolvimento de Jogos com ClojureCLR](https://www.youtube.com/live/4ZU9ewFuvbc?si=LGBm0qMSboX_H8SV) | [Lucas Teles](https://github.com/lucasteles) | 13/06/2024 | 🇧🇷 |
+| [Analisando Jogos em Clojure - Lisp Game Jam 2024](https://www.youtube.com/live/U0EwCgdAWhE?si=VJNKeNBjMDl6PMHY) | [Lucas Teles](https://github.com/lucasteles) & [Rafael Delboni](https://github.com/rafaeldelboni)  | 04/07/2024 | 🇧🇷 |
 <!-- | []() | - | 00/00/2020 | 🇧🇷 | -->
 
 ## Ferramentas Úteis
