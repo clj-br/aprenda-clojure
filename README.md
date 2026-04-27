@@ -92,11 +92,11 @@
 | [Linters com clj-kondo](https://www.youtube.com/live/ILRjDZMnf1w) | [André Camargo](https://github.com/acamargo) | 24/04/2025 | 🇧🇷 |
 
 #### ClojureScript
-| Nome  | Palestrante | Idioma | 
+| Nome  | Palestrante |  Data | Idioma | 
 |:--    |:--:    | :--:  | 
-| [Construindo front-ends funcionais com ClojureScript](https://youtu.be/R1611bVKlGU) | [Isa Silveira](https://github.com/bella-silveira) | 🇧🇷 |
-| [Introdução ao ClojureScript](https://youtu.be/WcqtMSLFUHI) | [Enzzo Cavallo](https://github.com/souenzzo) | 🇧🇷 |
-| [Criando Scripts com NBB - Introdução a Clojure(Script)](https://www.youtube.com/live/EIUuRa7pYig) | [Francisco Berrocal](#) | 🇧🇷 |
+| [Construindo front-ends funcionais com ClojureScript](https://youtu.be/R1611bVKlGU) | [Isa Silveira](https://github.com/bella-silveira) | 13/11/2018 | 🇧🇷 |
+| [Introdução ao ClojureScript](https://youtu.be/WcqtMSLFUHI) | [Enzzo Cavallo](https://github.com/souenzzo) | 04/04/2023 | 🇧🇷 |
+| [Criando Scripts com NBB - Introdução a Clojure(Script)](https://www.youtube.com/live/EIUuRa7pYig) | [Francisco Berrocal](#) | 05/09/2024 | 🇧🇷 |
 
 #### Aplicações e Casos
 | Nome  | Palestrante | Idioma | 
