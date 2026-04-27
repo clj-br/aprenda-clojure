@@ -64,17 +64,17 @@
 ## Palestras
 
 #### Introdução e Fundamentos
-| Nome  | Palestrante | Idioma | 
-|:--    |:--:    | :--:  | 
-| [A arte da simplicidade com Clojure](https://www.youtube.com/watch?v=_kGwRVuH6mU) | [Mauricio Szabo](https://github.com/mauricioszabo) | 🇧🇷 |
-| [O que é Programação (Funcional)](https://www.youtube.com/watch?v=qBQau1OsgW8) | [Sophia Velten](https://www.linkedin.com/in/sovelten/) | 🇧🇷 |
-| [Introdução ao LISP](https://www.youtube.com/watch?v=IIp9YaXRHVY) | [Laura Viglioni](https://github.com/Viglioni) | 🇧🇷 |
-| [Clojure é um Java melhor que Java](https://youtu.be/ruZwYDSaq1M) | [Ana Bastos](https://github.com/anabastos) | 🇧🇷 |
-| [Além das Terras de Java - Uma Introdução ao Lisp da JVM para Programação Funcional](https://youtu.be/UyN1Sw1nBbo?si=XoUslz-wpFjPR7NW) | [Eduardo Lemos](https://github.com/EduardoLR10) | 🇧🇷 |
-| [Clojure - Uma breve história (Princípios e Curiosidades)](https://www.youtube.com/live/_BsTQE-DVgo) | [Heloisa Carbone](#) | 🇧🇷 |
-| [A Essência do LISP](https://youtu.be/j3FEFuoVN5c) | [Sophia Velten](https://github.com/sovelten) | 🇧🇷 |
-| [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 🇧🇷 |
-| [Introdução à Linguagem de Programação Clojure](https://youtu.be/1xSl6vC-liI) | [Nelkisa Matias](https://github.com/gabriias) | 🇧🇷 |
+| Nome  | Palestrante | Data | Idioma | 
+|:--    |:--:    | :--:  | :--:  | 
+| [A arte da simplicidade com Clojure](https://www.youtube.com/watch?v=_kGwRVuH6mU) | [Mauricio Szabo](https://github.com/mauricioszabo) | 10/11/2015 | 🇧🇷 |
+| [A Essência do LISP](https://youtu.be/j3FEFuoVN5c) | [Sophia Velten](https://github.com/sovelten) | 28/10/2020 | 🇧🇷 |
+| [Introdução ao LISP](https://www.youtube.com/watch?v=IIp9YaXRHVY) | [Laura Viglioni](https://github.com/Viglioni) | 02/12/2020 | 🇧🇷 |
+| [Clojure é um Java melhor que Java](https://youtu.be/ruZwYDSaq1M) | [Ana Bastos](https://github.com/anabastos) | 23/04/2021 | 🇧🇷 |
+| [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 15/08/2023 | 🇧🇷 |
+| [O que é Programação (Funcional)](https://www.youtube.com/watch?v=qBQau1OsgW8) | [Sophia Velten](https://www.linkedin.com/in/sovelten/) | 05/09/2023 | 🇧🇷 |
+| [Clojure - Uma breve história (Princípios e Curiosidades)](https://www.youtube.com/live/_BsTQE-DVgo) | [Heloisa Carbone](#) | 08/08/2024 | 🇧🇷 |
+| [Além das Terras de Java - Uma Introdução ao Lisp da JVM para Programação Funcional](https://youtu.be/UyN1Sw1nBbo?si=XoUslz-wpFjPR7NW) | [Eduardo Lemos](https://github.com/EduardoLR10) | 13/12/2024 | 🇧🇷 |
+| [Introdução à Linguagem de Programação Clojure](https://youtu.be/1xSl6vC-liI) | [Nelkisa Matias](https://github.com/gabriias) | 12/08/2025 | 🇧🇷 |
 
 #### Macros
 | Nome  | Palestrante | Idioma | 
