@@ -74,6 +74,7 @@
 | [Clojure - Uma breve história (Princípios e Curiosidades)](https://www.youtube.com/live/_BsTQE-DVgo) | [Heloisa Carbone](#) | 🇧🇷 |
 | [A Essência do LISP](https://youtu.be/j3FEFuoVN5c) | [Sophia Velten](https://github.com/sovelten) | 🇧🇷 |
 | [Estrutura de Dados em Clojure](https://www.youtube.com/watch?v=39_0FDU4TFk) | [Rafael Ring](https://github.com/rafaelring) | 🇧🇷 |
+| [Introdução à Linguagem de Programação Clojure](https://youtu.be/1xSl6vC-liI) | [Nelkisa Matias](https://github.com/gabriias) | 🇧🇷 |
 
 #### Macros
 | Nome  | Palestrante | Idioma | 
