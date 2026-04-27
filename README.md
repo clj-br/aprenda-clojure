@@ -77,9 +77,9 @@
 | [Introdução à Linguagem de Programação Clojure](https://youtu.be/1xSl6vC-liI) | [Nelkisa Matias](https://github.com/gabriias) | 12/08/2025 | 🇧🇷 |
 
 #### Macros
-| Nome  | Palestrante | Idioma | 
-|:--    |:--:    | :--:  | 
-| [Desmistificando Macros](https://www.youtube.com/live/tK_IR-UWgE8) | [Josué Teodoro](https://github.com/J0sueTM) | 🇧🇷 |
+| Nome  | Palestrante | Data | Idioma | 
+|:--    |:--:    | :--:  | :--:  | 
+| [Desmistificando Macros](https://www.youtube.com/live/tK_IR-UWgE8) | [Josué Teodoro](https://github.com/J0sueTM) | 17/10/2024 | 🇧🇷 |
 
 #### Ferramentas e REPL
 | Nome  | Palestrante | Idioma | 
