@@ -34,7 +34,7 @@
 
 ### Code Styles
 
-- [Clojure Code Style](https://guide.clojure.style/)
+- [The Clojure Style Guide](https://guide.clojure.style/)
 - [Guia de Estilo de Clojure](https://github.com/cemanuelio/clojure-style-guide/blob/pt-BR/README.md)
 
 ### Cheatsheets, Style Guides...
