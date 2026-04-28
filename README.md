@@ -8,6 +8,7 @@
 
 - [Material para aprender Clojure](#material-para-aprender-clojure)
   - [IDE online](#ide-online)
+  - [Code Styles](#code-styles)
   - [Cheatsheets, Style Guides...](#cheatsheets-style-guides)
   - [Cursos e Vídeos](#cursos-e-vídeos)
   - [Prática](#prática)
@@ -30,6 +31,10 @@
 ### IDE online
 
 - [JDoodle - Execute Clojure Online](https://www.jdoodle.com/execute-clojure-online/)
+
+### Code Styles
+
+- [Clojure Code Style](https://github.com/bbatsov/clojure-style-guide)
 
 ### Cheatsheets, Style Guides...
 
