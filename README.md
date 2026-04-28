@@ -8,7 +8,6 @@
 
 - [Material para aprender Clojure](#material-para-aprender-clojure)
   - [IDE online](#ide-online)
-  - [Code Styles](#code-styles)
   - [Cheatsheets, Style Guides...](#cheatsheets-style-guides)
   - [Cursos e Vídeos](#cursos-e-vídeos)
   - [Prática](#prática)
@@ -32,17 +31,13 @@
 
 - [JDoodle - Execute Clojure Online](https://www.jdoodle.com/execute-clojure-online/)
 
-### Code Styles
-
-- [The Clojure Style Guide](https://guide.clojure.style/)
-- [Guia de Estilo de Clojure](https://github.com/cemanuelio/clojure-style-guide/blob/pt-BR/README.md)
-
 ### Cheatsheets, Style Guides...
 
 | Nome | Idioma |
 |:--|:--:|
 | [Clojure Cheat Sheet](https://clojure.org/api/cheatsheet) | 🇺🇸 |
-| [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) | 🇺🇸 |
+| [The Clojure Style Guide](https://guide.clojure.style/) | 🇺🇸 |
+| [Guia de Estilo de Clojure](https://github.com/cemanuelio/clojure-style-guide/blob/pt-BR/README.md) | 🇧🇷 |
 
 ### Cursos e Vídeos
 
