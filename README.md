@@ -1,7 +1,7 @@
 # Aprenda Clojure
 
 <p align="center">
-  <img src="./conrad_barski.png" alt="Conrad Barski" width="500" />
+  <img src="./conrad_barski_fix.png" alt="Conrad Barski" width="500" />
 </p>
 
 ## Índice
