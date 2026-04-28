@@ -34,7 +34,7 @@
 
 ### Code Styles
 
-- [Clojure Code Style](https://github.com/bbatsov/clojure-style-guide)
+- [Clojure Code Style](https://guide.clojure.style/)
 
 ### Cheatsheets, Style Guides...
 
