@@ -98,6 +98,7 @@
 | [Construindo front-ends funcionais com ClojureScript](https://youtu.be/R1611bVKlGU) | [Isa Silveira](https://github.com/bella-silveira) | 13/11/2018 | 🇧🇷 |
 | [Introdução ao ClojureScript](https://youtu.be/WcqtMSLFUHI) | [Enzzo Cavallo](https://github.com/souenzzo) | 04/04/2023 | 🇧🇷 |
 | [Criando Scripts com NBB - Introdução a Clojure(Script)](https://www.youtube.com/live/EIUuRa7pYig) | [Francisco Berrocal](#) | 05/09/2024 | 🇧🇷 |
+| [Construindo aplicações web elegantes com ClojureScript, React e UIx!](https://youtu.be/KUGStGc4E-E) | [João Lanjoni](https://github.com/lanjoni) | 17/12/2025 | 🇧🇷 |
 
 #### Aplicações e Casos
 | Nome  | Palestrante | Data | Idioma | 
