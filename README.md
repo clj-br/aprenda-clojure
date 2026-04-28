@@ -1,5 +1,9 @@
 # Aprenda Clojure
 
+<p align="center">
+  <img src="./conrad_barski.png" alt="Conrad Barski" />
+</p>
+
 ## Índice
 
 - [Material para aprender Clojure](#material-para-aprender-clojure)
