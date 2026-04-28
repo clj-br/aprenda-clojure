@@ -128,7 +128,7 @@
 ## Ferramentas Úteis
 | Nome  | O que faz? | 
 |:--    |:--     | 
-| [leiningen](https://leiningen.org/) | Gerenciador de Dependências e ferramenta de build   |
+| [leiningen](https://leiningen.org/) / [deps.edn](https://clojure.org/guides/deps_and_cli) | Gerenciador de Dependências e ferramenta de build   |
 | [babashka](https://github.com/babashka/babashka) | Ambiente de scripting em Clojure   |
 | [cljstyle](https://github.com/greglook/cljstyle) | Ferramenta de formatação de Código |
 | [clj-kondo](https://github.com/clj-kondo/clj-kondo) | Ferramenta de análise estática (erros/incosistências) |
