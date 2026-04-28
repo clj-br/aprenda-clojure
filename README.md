@@ -1,7 +1,7 @@
 # Aprenda Clojure
 
 <p align="center">
-  <img src="./barski_clojure.png" alt="Conrad Barski" width="500" />
+  <img src="./barski_clojure-removebg-preview.png" alt="Conrad Barski" width="500" />
 </p>
 
 ## Índice
