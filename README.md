@@ -75,6 +75,7 @@
 | [Clojure Koans](http://clojurekoans.com/) | 🇺🇸 |
 | [Casting Spells with Clojure](https://www.lisperati.com/casting.html) | 🇺🇸 |
 | [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas) | 🇺🇸 |
+| [100 Solutions](https://roboloco.net/project-euler/) of the [Project Euler](https://projecteuler.net/) in Clojure | 🇺🇸 | 
 
 ### Livros
 
