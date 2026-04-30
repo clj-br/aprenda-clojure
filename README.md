@@ -152,7 +152,7 @@
 | [TODO-MVC com FullStack Clojure](https://www.youtube.com/watch?v=TPRczpkFjMw) | [Ian Fernandez](https://github.com/ianffcs) | `fullstack`, `frontend`, `backend` | 22/07/2020 | 🇧🇷 |
 | [Aplicação de Técnicas de IA para Testes Unitários em Clojure](https://www.youtube.com/live/_jIyjMJDlzY) | [Raíssa Barreira](https://github.com/rtbarreira/) | `ia`, `testes` | 26/06/2025 | 🇧🇷 |
 | [Introduzindo programação funcional na Carteira Digital de Trânsito](https://youtu.be/5fk0KXoQBeE) | [Marcio Frayze](https://github.com/marciofrayze) | `case`, `funcional`, `backend` | 17/12/2025 | 🇧🇷 |
-| [Uma estratégia incremental com apoio IA para testes unitários em Clojure](https://youtu.be/MJd2q4sNTu0) | [Raíssa Barreira](https://github.com/rtbarreira/) | `ia`, `testes` | 17/12/2025 | 🇧🇷 |
+| [Uma estratégia incremental com apoio IA para testes unitários em Clojure](https://youtu.be/bODFSD-GRNk) | [Raíssa Barreira](https://github.com/rtbarreira/) | `ia`, `testes` | 17/12/2025 | 🇧🇷 |
 
 ### Paralelismo
 
