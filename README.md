@@ -154,6 +154,7 @@
 | [Introduzindo programação funcional na Carteira Digital de Trânsito](https://youtu.be/5fk0KXoQBeE) | [Marcio Frayze](https://github.com/marciofrayze) | `case`, `funcional`, `backend` | 17/12/2025 | 🇧🇷 |
 | [Uma estratégia incremental com apoio IA para testes unitários em Clojure](https://youtu.be/bODFSD-GRNk) | [Raíssa Barreira](https://github.com/rtbarreira/) | `ia`, `testes` | 17/12/2025 | 🇧🇷 |
 | [NuFileBox Reverse: Gestão segura de arquivos com Clojure](https://youtu.be/RtIgHpcKyqA) | [Eric Bispo](https://github.com/ericsilva200) & [Isaac Borges](https://www.linkedin.com/in/isaacsilvaborges/) | `cybersecurity`, `ffi`, `file management` | 17/12/2025 | 🇧🇷 |
+| [Clojure e IA: Construindo agentes inteligentes sem reinventar a roda](https://youtu.be/PogKRQ1lJ0A) | [Marlon Silva](https://www.linkedin.com/in/marlonjsilva/) | `ia` | 17/12/2025 | 🇧🇷 |
 
 ### Paralelismo
 
