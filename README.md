@@ -135,6 +135,7 @@
 | [Clojure Docs](https://www.youtube.com/live/f9LM2f7bt_4?si=sNNYBU2KSM84BqSp) | [Rafael Delboni](https://github.com/rafaeldelboni) | `documentação`, `ferramentas` | 02/05/2024 | 🇧🇷 |
 | [clj-depend: Validando a arquitetura da sua aplicação](https://www.youtube.com/live/lcRqEYC-IXo) | [Fábio Domingues](https://github.com/fabiodomingues) | `arquitetura`, `ferramentas` | 20/02/2025 | 🇧🇷 |
 | [Linters com clj-kondo](https://www.youtube.com/live/ILRjDZMnf1w) | [André Camargo](https://github.com/acamargo) | `lint`, `clj-kondo`, `ferramentas` | 24/04/2025 | 🇧🇷 |
+| [Código como laboratório: explorando REPL na prática](https://youtu.be/wpBndU44lLk) | [Arthur Fücher](https://github.com/afucher) | `repl`, `repl-driven development` | 30/03/2026 | 🇧🇷 |
 
 ### ClojureScript
 
