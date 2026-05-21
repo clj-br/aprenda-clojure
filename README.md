@@ -82,7 +82,7 @@
 | Nome | Autor | Ano | Pago? | ISBN | Idioma |
 |:--|:--|:--:|:--:|:--:|:--:|
 | [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://github.com/fogus), [Chris Houser](https://github.com/chouser) | 2014 | Pago | 9781617291418 | 🇺🇸 |
-| [Clojure for the Brave and True](https://www.braveclojure.com/) | [Daniel Higginbotham](https://github.com/nonrecursive) | 2015 | Grátis | 9781593275914 | 🇺🇸 |
+| [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) | [Daniel Higginbotham](https://github.com/nonrecursive) | 2015 | Grátis | 9781593275914 | 🇺🇸 |
 | [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | [Ben Vandgrift](https://github.com/bvandgrift), [Alex Miller](https://github.com/puredanger) | 2015 | Pago | 9781680500745 | 🇺🇸 |
 | [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://www.amazon.com.br/gp/product/1680503006/) | [Russ Olsen](https://github.com/russolsen) | 2018 | Pago | 9781680503005 | 🇺🇸 |
 | [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | [Gregório Melo](https://github.com/gregoriomelo) | 2019 | Pago | 9788572540025 | 🇧🇷 |
