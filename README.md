@@ -43,7 +43,7 @@
 
 #### Cursos completos
 
-| Nome | Pago | Idioma |
+| Nome | Pago? | Idioma |
 |:--|:--:|:--:|
 | [Clojure4Noobs](https://github.com/lanjoni/clojure4noobs) | Grátis | 🇧🇷 |
 | [Alura - Trilha de Clojure](https://www.alura.com.br/formacao-clojure) | Pago | 🇧🇷 |
@@ -57,7 +57,7 @@
 
 #### Playlists e videoaulas
 
-| Nome | Pago | Idioma |
+| Nome | Pago? | Idioma |
 |:--|:--:|:--:|
 | [Curso de Clojure](https://www.youtube.com/playlist?list=PLWd81WfLMI-fNPUkjddIHB_taxElX3qMr) | Grátis | 🇧🇷 |
 | [Clojure Básico](https://www.youtube.com/playlist?list=PLcjDvROHY58MlqcAU7d0fYhAJQ-p-dMp6) | Grátis | 🇧🇷 |
@@ -79,17 +79,17 @@
 
 ### Livros
 
-| Nome | Autor | Ano | Gratuito | ISBN | Idioma |
+| Nome | Autor | Ano | Pago? | ISBN | Idioma |
 |:--|:--|:--:|:--:|:--:|:--:|
-| [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://github.com/fogus), [Chris Houser](https://github.com/chouser) | 2014 | Não | 9781617291418 | 🇺🇸 |
-| [Clojure for the Brave and True](https://www.braveclojure.com/) | [Daniel Higginbotham](https://github.com/nonrecursive) | 2015 | Sim | 9781593275914 | 🇺🇸 |
-| [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | [Ben Vandgrift](https://github.com/bvandgrift), [Alex Miller](https://github.com/puredanger) | 2015 | Não | 9781680500745 | 🇺🇸 |
-| [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://www.amazon.com.br/gp/product/1680503006/) | [Russ Olsen](https://github.com/russolsen) | 2018 | Não | 9781680503005 | 🇺🇸 |
-| [Programming Clojure](https://www.amazon.com.br/Programming-Clojure-3e-Alex-Miller/dp/1680502468/) | [Alex Miller](https://github.com/puredanger), [Stuart Halloway](https://github.com/stuarthalloway), [Aaron Bedra](https://github.com/abedra) | 2018 | Não | 9781680502466 | 🇺🇸 |
-| [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | [Gregório Melo](https://github.com/gregoriomelo) | 2019 | Não | 9788572540025 | 🇧🇷 |
-| [Clojure Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/) | [Alex Miller](https://github.com/puredanger), Lorilyn Jordan Miller | 2025 | Não | 9798888651292 | 🇺🇸 |
-| [Programming Clojure, 4th Edition](https://pragprog.com/titles/.../) | [Alex Miller](https://github.com/puredanger), [Stuart Halloway](https://github.com/stuarthalloway), [Aaron Bedra](https://github.com/abedra) | 2026 | Não | 9798888651919 | 🇺🇸 |
-| [Clojure Book](https://clojure-book.gitlab.io/) | [Karthikeyan A K](https://gitlab.com/mindaslab) | — | Sim | — | 🇺🇸 |
+| [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://github.com/fogus), [Chris Houser](https://github.com/chouser) | 2014 | Pago | 9781617291418 | 🇺🇸 |
+| [Clojure for the Brave and True](https://www.braveclojure.com/) | [Daniel Higginbotham](https://github.com/nonrecursive) | 2015 | Grátis | 9781593275914 | 🇺🇸 |
+| [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | [Ben Vandgrift](https://github.com/bvandgrift), [Alex Miller](https://github.com/puredanger) | 2015 | Pago | 9781680500745 | 🇺🇸 |
+| [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://www.amazon.com.br/gp/product/1680503006/) | [Russ Olsen](https://github.com/russolsen) | 2018 | Pago | 9781680503005 | 🇺🇸 |
+| [Programming Clojure](https://www.amazon.com.br/Programming-Clojure-3e-Alex-Miller/dp/1680502468/) | [Alex Miller](https://github.com/puredanger), [Stuart Halloway](https://github.com/stuarthalloway), [Aaron Bedra](https://github.com/abedra) | 2018 | Pago | 9781680502466 | 🇺🇸 |
+| [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | [Gregório Melo](https://github.com/gregoriomelo) | 2019 | Pago | 9788572540025 | 🇧🇷 |
+| [Clojure Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/) | [Alex Miller](https://github.com/puredanger), Lorilyn Jordan Miller | 2025 | Pago | 9798888651292 | 🇺🇸 |
+| [Programming Clojure, 4th Edition](https://pragprog.com/titles/.../) | [Alex Miller](https://github.com/puredanger), [Stuart Halloway](https://github.com/stuarthalloway), [Aaron Bedra](https://github.com/abedra) | 2026 | Pago | 9798888651919 | 🇺🇸 |
+| [Clojure Book](https://clojure-book.gitlab.io/) | [Karthikeyan A K](https://gitlab.com/mindaslab) | — | Grátis | — | 🇺🇸 |
 
 ### Podcasts
 
