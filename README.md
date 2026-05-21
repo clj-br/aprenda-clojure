@@ -79,16 +79,17 @@
 
 ### Livros
 
-| Nome | Autor | Gratuito para Ler Online | Idioma |
-|:--|:--:|:--:|:--:|
-| [Clojure for the Brave and True](https://www.braveclojure.com/) | [Daniel Higginbotham](https://twitter.com/nonrecursive) | Sim | 🇺🇸 |
-| [Clojure Book](https://clojure-book.gitlab.io/) | [Karthikeyan A K](https://gitlab.com/mindaslab) | Sim | 🇺🇸 |
-| [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://www.amazon.com.br/gp/product/1680503006/) | [Russ Olsen](https://twitter.com/russolsen) | Não | 🇺🇸 |
-| [Programming Clojure](https://www.amazon.com.br/Programming-Clojure-3e-Alex-Miller/dp/1680502468/) | [Alex Miller](https://twitter.com/puredanger) | Não | 🇺🇸 |
-| [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | [Ben Vandgrift](https://twitter.com/bvandgrift) | Não | 🇺🇸 |
-| [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | [Michael Fogus](https://twitter.com/fogus) | Não | 🇺🇸 |
-| [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | [Gregório Melo](https://www.linkedin.com/in/gregoriomelo) | Não | 🇧🇷 |
-| [Clojure Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/) | Alex Miller e Lorilyn Jordan Miller | Não | 🇺🇸 |
+| Nome | Autor | Ano | Editora | Páginas | Gratuito para Ler Online | ISBN (ISBN-13) | Idioma |
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [The Joy of Clojure](https://www.amazon.com.br/gp/product/1617291412/) | Michael Fogus, Chris Houser | 2014 | Manning Publications | 375 | Não | 9781617291418 | 🇺🇸 |
+| [Clojure for the Brave and True](https://www.braveclojure.com/) | Daniel Higginbotham | 2015 | No Starch Press | 328 | Sim | 9781593275914 | 🇺🇸 |
+| [Clojure Applied: From Practice to Practitioner](https://www.amazon.com.br/Clojure-Applied-Practice-Practitioner-English-ebook/dp/B016CJGHFE) | Ben Vandgrift, Alex Miller | 2015 | Pragmatic Bookshelf | 220 | Não | 9781680500745 | 🇺🇸 |
+| [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://www.amazon.com.br/gp/product/1680503006/) | Russ Olsen | 2018 | Pragmatic Bookshelf | 260 | Não | 9781680503005 | 🇺🇸 |
+| [Programming Clojure](https://www.amazon.com.br/Programming-Clojure-3e-Alex-Miller/dp/1680502468/) | Alex Miller, Stuart Halloway, Aaron Bedra | 2018 | Pragmatic Bookshelf | 280 | Não | 9781680502466 | 🇺🇸 |
+| [Programação Funcional: Uma introdução em Clojure](https://www.casadocodigo.com.br/pages/sumario-programacao-funcional-clojure) | Gregório Melo | 2019 | Casa do Código | 234 | Não | 9788572540025 | 🇧🇷 |
+| [Clojure Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/) | Alex Miller, Lorilyn Jordan Miller | 2025 | Pragmatic Bookshelf | 120 | Não | 9798888651292 | 🇺🇸 |
+| [Programming Clojure, 4th Edition](https://pragprog.com/titles/.../) | Alex Miller, Stuart Halloway, Aaron Bedra | 2026 | Pragmatic Bookshelf | 320 | Não | 9798888651919 | 🇺🇸 |
+| [Clojure Book](https://clojure-book.gitlab.io/) | Karthikeyan A K | — | GitLab | — | Sim | — | 🇺🇸 |
 
 ### Podcasts
 
