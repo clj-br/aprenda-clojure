@@ -157,6 +157,7 @@
 | [NuFileBox Reverse: Gestão segura de arquivos com Clojure](https://youtu.be/RtIgHpcKyqA) | [Eric Bispo](https://github.com/ericsilva200) & [Isaac Borges](https://www.linkedin.com/in/isaacsilvaborges/) | `cybersecurity`, `ffi`, `file management` | 17/12/2025 | 🇧🇷 |
 | [Clojure e IA: Construindo agentes inteligentes sem reinventar a roda](https://youtu.be/PogKRQ1lJ0A) | [Marlon Silva](https://www.linkedin.com/in/marlonjsilva/) | `ia`,  `agentes`  | 17/12/2025 | 🇧🇷 |
 | [Usando Clojure para Gerar Javascript para rodar Clojure que Executa Ruby (e Python)](https://youtu.be/hmsdiczfCkI?si=SDUboNNKvsuOmU_2) | [Mauricio Szabo](https://github.com/mauricioszabo) | `editores`, `nrepl`, `lazuli`, `repl-driven development` | 23/03/2026 | 🇧🇷 |
+| [Brazilian Utils: Simplificando o caos brasileiro com Clojure em uma biblioteca open source](https://www.youtube.com/live/_rqa5CSdcuk?si=RiORsO8xTdJ-KzIw) | [Ana Bastos](https://github.com/anabastos) | `validação`, `comunidade`, `brasil` | 28/05/2026 | 🇧🇷 |
 
 ### Paralelismo
 
