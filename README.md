@@ -136,7 +136,7 @@
 | [clj-depend: Validando a arquitetura da sua aplicação](https://www.youtube.com/live/lcRqEYC-IXo) | [Fábio Domingues](https://github.com/fabiodomingues) | `arquitetura`, `ferramentas` | 20/02/2025 | 🇧🇷 |
 | [Linters com clj-kondo](https://www.youtube.com/live/ILRjDZMnf1w) | [André Camargo](https://github.com/acamargo) | `lint`, `clj-kondo`, `ferramentas` | 24/04/2025 | 🇧🇷 |
 | [Código como laboratório: explorando REPL na prática](https://youtu.be/wpBndU44lLk) | [Arthur Fücher](https://github.com/afucher) | `repl`, `repl-driven development` | 30/03/2026 | 🇧🇷 |
-| [Testes em camada usando Clojure](https://www.youtube.com/live/gNT6WEreEgs) | [Lucas Calvacanti](https://github.com/lucascs) | `testes`, `spec`, `property-testing` | 00/00/2020 | 🇧🇷 |
+| [Testes em camada usando Clojure](https://www.youtube.com/live/gNT6WEreEgs) | [Lucas Calvacanti](https://github.com/lucascs) | `testes`, `property-based testing` | 15/06/2026 | 🇧🇷 |
 
 ### ClojureScript
 
